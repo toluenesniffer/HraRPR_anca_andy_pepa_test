@@ -1,0 +1,16 @@
+G:\prg\testyRPR\testyRPR\bin\Debug\net8.0-windows\testyRPR.exe
+G:\prg\testyRPR\testyRPR\bin\Debug\net8.0-windows\testyRPR.deps.json
+G:\prg\testyRPR\testyRPR\bin\Debug\net8.0-windows\testyRPR.runtimeconfig.json
+G:\prg\testyRPR\testyRPR\bin\Debug\net8.0-windows\testyRPR.dll
+G:\prg\testyRPR\testyRPR\bin\Debug\net8.0-windows\testyRPR.pdb
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.Form1.resources
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.csproj.GenerateResource.cache
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.GeneratedMSBuildEditorConfig.editorconfig
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.AssemblyInfoInputs.cache
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.AssemblyInfo.cs
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.csproj.CoreCompileInputs.cache
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.dll
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\refint\testyRPR.dll
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.pdb
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\testyRPR.genruntimeconfig.cache
+G:\prg\testyRPR\testyRPR\obj\Debug\net8.0-windows\ref\testyRPR.dll
